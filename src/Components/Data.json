@@ -1,0 +1,40 @@
+[
+
+    {
+        "id" : 1,
+        "name" : "Trần Dương Huy 1",
+        "tel" : "0586223762",
+        "permission" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "Trần Dương Huy 2",
+        "tel" : "0586223763",
+        "permission" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Trần Dương Huy 3",
+        "tel" : "0586223764",
+        "permission" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "Nguyễn Phạm Thùy Anh 1",
+        "tel" : "0586223765",
+        "permission" : 1
+    },
+    {
+        "id" : 5,
+        "name" : "Nguyễn Phạm Thùy Anh 2",
+        "tel" : "0586223766",
+        "permission" : 1
+    },
+    {
+        "id" : 6,
+        "name" : "Nguyễn Phạm Thùy Anh 3",
+        "tel" : "0586223767",
+        "permission" : 1
+    }
+
+]
